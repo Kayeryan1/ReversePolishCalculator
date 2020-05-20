@@ -16,6 +16,7 @@ namespace ReversePolishNotationCalculator
                 Console.WriteLine("Please enter a space seperated list of operators and and operands.");
                 Console.WriteLine("supported operators are +, -, *, /");
                 Console.WriteLine("eg: 2 3 +");
+                Console.Write("> ");
                 var input = Console.ReadLine();
                 var result = Calculate(input);
                 if (result != double.MinValue)
