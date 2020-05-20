@@ -1,0 +1,16 @@
+C:\Users\Kayer\source\repos\ReversePolishNotationCalculator\RPNCalculatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Kayer\source\repos\ReversePolishNotationCalculator\RPNCalculatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Kayer\source\repos\ReversePolishNotationCalculator\RPNCalculatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Kayer\source\repos\ReversePolishNotationCalculator\RPNCalculatorTests\bin\Debug\RPNCalculatorTests.dll
+C:\Users\Kayer\source\repos\ReversePolishNotationCalculator\RPNCalculatorTests\bin\Debug\RPNCalculatorTests.pdb
+C:\Users\Kayer\source\repos\ReversePolishNotationCalculator\RPNCalculatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Kayer\source\repos\ReversePolishNotationCalculator\RPNCalculatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Kayer\source\repos\ReversePolishNotationCalculator\RPNCalculatorTests\bin\Debug\ReversePolishNotationCalculator.exe
+C:\Users\Kayer\source\repos\ReversePolishNotationCalculator\RPNCalculatorTests\bin\Debug\ReversePolishNotationCalculator.pdb
+C:\Users\Kayer\source\repos\ReversePolishNotationCalculator\RPNCalculatorTests\bin\Debug\ReversePolishNotationCalculator.exe.config
+C:\Users\Kayer\source\repos\ReversePolishNotationCalculator\RPNCalculatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Kayer\source\repos\ReversePolishNotationCalculator\RPNCalculatorTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Kayer\source\repos\ReversePolishNotationCalculator\RPNCalculatorTests\obj\Debug\RPNCalculatorTests.csprojAssemblyReference.cache
+C:\Users\Kayer\source\repos\ReversePolishNotationCalculator\RPNCalculatorTests\obj\Debug\RPNCalculatorTests.csproj.CopyComplete
+C:\Users\Kayer\source\repos\ReversePolishNotationCalculator\RPNCalculatorTests\obj\Debug\RPNCalculatorTests.dll
+C:\Users\Kayer\source\repos\ReversePolishNotationCalculator\RPNCalculatorTests\obj\Debug\RPNCalculatorTests.pdb
